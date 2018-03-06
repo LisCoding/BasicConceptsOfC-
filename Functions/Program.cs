@@ -1,4 +1,4 @@
-﻿using System;
+        ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,6 +24,7 @@ namespace Functions
             Console.WriteLine(fullName);
         }
 
+        //This is method return a string
         static string Hobby(string favoriteHobby)
         {
             return favoriteHobby;
