@@ -1,0 +1,6 @@
+C:\Users\little bird\source\repos\FirstApp\Variables\bin\Debug\Variables.exe.config
+C:\Users\little bird\source\repos\FirstApp\Variables\bin\Debug\Variables.exe
+C:\Users\little bird\source\repos\FirstApp\Variables\bin\Debug\Variables.pdb
+C:\Users\little bird\source\repos\FirstApp\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\Variables\obj\Debug\Variables.exe
+C:\Users\little bird\source\repos\FirstApp\Variables\obj\Debug\Variables.pdb

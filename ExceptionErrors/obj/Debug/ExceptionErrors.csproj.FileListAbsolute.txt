@@ -1,0 +1,6 @@
+C:\Users\little bird\source\repos\FirstApp\ExceptionErrors\bin\Debug\ExceptionErrors.exe.config
+C:\Users\little bird\source\repos\FirstApp\ExceptionErrors\bin\Debug\ExceptionErrors.exe
+C:\Users\little bird\source\repos\FirstApp\ExceptionErrors\bin\Debug\ExceptionErrors.pdb
+C:\Users\little bird\source\repos\FirstApp\ExceptionErrors\obj\Debug\ExceptionErrors.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\ExceptionErrors\obj\Debug\ExceptionErrors.exe
+C:\Users\little bird\source\repos\FirstApp\ExceptionErrors\obj\Debug\ExceptionErrors.pdb

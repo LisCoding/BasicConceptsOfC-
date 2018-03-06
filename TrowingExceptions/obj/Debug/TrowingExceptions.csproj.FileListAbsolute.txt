@@ -1,0 +1,7 @@
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\bin\Debug\TrowingExceptions.exe.config
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\bin\Debug\TrowingExceptions.exe
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\bin\Debug\TrowingExceptions.pdb
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\obj\Debug\TrowingExceptions.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\obj\Debug\TrowingExceptions.exe
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\obj\Debug\TrowingExceptions.pdb
+C:\Users\little bird\source\repos\FirstApp\TrowingExceptions\obj\Debug\TrowingExceptions.csprojResolveAssemblyReference.cache

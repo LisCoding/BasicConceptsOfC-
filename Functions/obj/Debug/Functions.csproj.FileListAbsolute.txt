@@ -1,0 +1,7 @@
+C:\Users\little bird\source\repos\FirstApp\Functions\bin\Debug\Functions.exe.config
+C:\Users\little bird\source\repos\FirstApp\Functions\bin\Debug\Functions.exe
+C:\Users\little bird\source\repos\FirstApp\Functions\bin\Debug\Functions.pdb
+C:\Users\little bird\source\repos\FirstApp\Functions\obj\Debug\Functions.csprojResolveAssemblyReference.cache
+C:\Users\little bird\source\repos\FirstApp\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\Functions\obj\Debug\Functions.exe
+C:\Users\little bird\source\repos\FirstApp\Functions\obj\Debug\Functions.pdb

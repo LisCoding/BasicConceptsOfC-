@@ -1,0 +1,6 @@
+C:\Users\little bird\source\repos\FirstApp\loops\bin\Debug\loops.exe.config
+C:\Users\little bird\source\repos\FirstApp\loops\bin\Debug\loops.exe
+C:\Users\little bird\source\repos\FirstApp\loops\bin\Debug\loops.pdb
+C:\Users\little bird\source\repos\FirstApp\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\loops\obj\Debug\loops.exe
+C:\Users\little bird\source\repos\FirstApp\loops\obj\Debug\loops.pdb

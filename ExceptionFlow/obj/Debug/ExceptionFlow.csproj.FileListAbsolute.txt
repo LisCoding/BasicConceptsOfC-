@@ -1,0 +1,7 @@
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\bin\Debug\ExceptionFlow.exe.config
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\bin\Debug\ExceptionFlow.exe
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\bin\Debug\ExceptionFlow.pdb
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\obj\Debug\ExceptionFlow.csprojResolveAssemblyReference.cache
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\obj\Debug\ExceptionFlow.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\obj\Debug\ExceptionFlow.exe
+C:\Users\little bird\source\repos\FirstApp\ExceptionFlow\obj\Debug\ExceptionFlow.pdb

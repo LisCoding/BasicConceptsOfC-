@@ -1,0 +1,7 @@
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\obj\Debug\SimpleMath.csprojResolveAssemblyReference.cache
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\obj\Debug\SimpleMath.csproj.CoreCompileInputs.cache
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\bin\Debug\SimpleMath.exe.config
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\bin\Debug\SimpleMath.exe
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\bin\Debug\SimpleMath.pdb
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\obj\Debug\SimpleMath.exe
+C:\Users\little bird\source\repos\FirstApp\SimpleMath\obj\Debug\SimpleMath.pdb
