@@ -21,6 +21,7 @@ namespace Generics
             //Generic type safety used mostly with collections
             Stack<string> myStrStack = new Stack<string>();
             myStrStack.Push("Love");
+            myStrStack.Push("Learn");
             //We can not add a integer because we said that 
             //our stack only store data of type string
             //myStrStack.Push(4);
